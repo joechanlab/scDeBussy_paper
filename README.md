@@ -1,6 +1,6 @@
-# CellAlignDTW_paper
-Code to reproduce the figures in the paper
-
+# scDeBussy paper
+Code to reproduce the figures in the paper. 
+The code repository of scDeBussy is [here](https://github.com/joechanlab/scDeBussy)
 
 ## B cell development
 The source data of bone marrow B cell development came from [Human Cell Atlas](https://explore.data.humancellatlas.org/projects/cc95ff89-2e68-4a08-a234-480eca21ce79/get-curl-command). We downloaded the data in h5ad format and the relevant file is `20492a4b-0def-457b-9574-60dfdde2a0f2/BM_standard_design.h5ad`. We extracted three B cells subsets: Pre-B, Pro-B, and Naive B cells. 
